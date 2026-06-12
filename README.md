@@ -1,5 +1,7 @@
 # git-ape-azure-saas-skills
 
+![Git-Ape](https://github.com/Azure/git-ape/raw/main/APE.png)
+
 Azure SaaS platform skills plugin for Git-Ape, based on:
 
 - Azure ISV Landing Zone guidance:  
