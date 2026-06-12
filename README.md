@@ -1,5 +1,8 @@
 # git-ape
 
+[![Git-Ape](https://github.com/Azure/git-ape/raw/main/APE.png)](https://github.com/Azure/git-ape/raw/main/APE.png)
+
+
 📖 Documentation: azure.github.io/git-ape  •  🛒 VS Code Marketplace: Git-ApeTeam.git-ape
 
 Git-Ape is a platform engineering framework built on GitHub Copilot. It is a multi-agent system that plans, validates, and deploys any Azure workload — with security gates, cost analysis, and CI/CD pipeline integration built in.
