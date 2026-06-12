@@ -1,0 +1,33 @@
+{
+  "name": "git-ape-azure-saas-skills",
+  "description": "Azure SaaS platform skills for Git-Ape. Guides ISV landing zone setup, multi-tenant architecture, SaaS Accelerator integration, marketplace onboarding, offer strategy, metering, and scale operations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Microsoft",
+    "url": "https://github.com/Azure/git-ape"
+  },
+  "homepage": "https://github.com/Azure/git-ape",
+  "repository": "https://github.com/Azure/git-ape",
+  "license": "MIT",
+  "keywords": [
+    "azure",
+    "saas",
+    "marketplace",
+    "isv",
+    "landing-zone",
+    "multi-tenant",
+    "metering",
+    "fulfillment"
+  ],
+  "prerequisites": {
+    "tools": {
+      "az": ">=2.58.0",
+      "gh": ">=2.0.0"
+    },
+    "plugins": {
+      "git-ape": ">=0.0.1"
+    }
+  },
+  "skills": "skills/"
+}
+

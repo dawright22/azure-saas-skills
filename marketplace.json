@@ -1,0 +1,83 @@
+{
+  "name": "git-ape-azure-saas-skills",
+  "owner": {
+    "name": "Microsoft",
+    "url": "https://github.com/Azure/git-ape"
+  },
+  "metadata": {
+    "description": "Azure SaaS platform skills for Git-Ape covering ISV landing zone, multi-tenancy, SaaS offer implementation, marketplace onboarding, fulfillment, metering, and operational scale.",
+    "version": "1.0.0",
+    "category": "cloud-provider",
+    "tags": ["azure", "marketplace", "saas", "isv"]
+  },
+  "plugins": [
+    {
+      "name": "git-ape-azure-saas-skills",
+      "description": "Azure SaaS platform skills plugin for building and publishing scalable multi-tenant SaaS solutions.",
+      "version": "1.0.0",
+      "source": "."
+    }
+  ],
+  "skills": [
+    {
+      "name": "multi-tenant_SaaS",
+      "description": "End-to-end multi-tenant SaaS platform orchestration",
+      "category": "orchestration"
+    },
+    {
+      "name": "isv-landing-zone-foundation",
+      "description": "CAF-aligned Azure ISV landing zone setup",
+      "category": "infrastructure"
+    },
+    {
+      "name": "saas-accelerator-bootstrap",
+      "description": "Commercial Marketplace SaaS Accelerator integration",
+      "category": "application"
+    },
+    {
+      "name": "tenant-isolation-models",
+      "description": "Shared and isolated tenant architecture patterns",
+      "category": "architecture"
+    },
+    {
+      "name": "tenant-lifecycle-automation",
+      "description": "Tenant onboarding, upgrades, and offboarding automation",
+      "category": "operations"
+    },
+    {
+      "name": "fulfillment-and-metering",
+      "description": "Marketplace fulfillment and metered billing implementation",
+      "category": "marketplace"
+    },
+    {
+      "name": "marketplace-offer-types",
+      "description": "Offer type selection and implementation guidance",
+      "category": "marketplace"
+    },
+    {
+      "name": "marketplace-onboarding",
+      "description": "Marketplace publishing and certification readiness",
+      "category": "marketplace"
+    },
+    {
+      "name": "onboard-to-marketplace",
+      "description": "Execution-focused onboarding path for SaaS offer publication",
+      "category": "marketplace"
+    },
+    {
+      "name": "scale-and-sre",
+      "description": "Scale, reliability, and observability practices",
+      "category": "operations"
+    },
+    {
+      "name": "security-and-compliance",
+      "description": "Identity, data protection, and compliance controls",
+      "category": "security"
+    },
+    {
+      "name": "deployment-blueprints",
+      "description": "IaC deployment blueprints for SaaS topologies",
+      "category": "deployment"
+    }
+  ]
+}
