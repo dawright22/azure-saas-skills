@@ -1,6 +1,21 @@
-# git-ape-azure-saas-skills
+# git-ape
 
-![Git-Ape](https://github.com/Azure/git-ape/raw/main/APE.png)
+
+📖 Documentation: azure.github.io/git-ape  •  🛒 VS Code Marketplace: Git-ApeTeam.git-ape
+
+Git-Ape is a platform engineering framework built on GitHub Copilot. It is a multi-agent system that plans, validates, and deploys any Azure workload — with security gates, cost analysis, and CI/CD pipeline integration built in.
+
+Nothing is deployed without your explicit confirmation.
+
+What Git-Ape Does
+Git-Ape walks every deployment through the same four steps:
+
+Gather requirements through a guided interview.
+Generate an ARM template, architecture diagram, cost estimate, and security report.
+Confirm with you (interactive) or via PR review (headless) before anything is created.
+Deploy to Azure and run post-deployment validation.
+
+## azure-saas-skills
 
 Azure SaaS platform skills plugin for Git-Ape, based on:
 
