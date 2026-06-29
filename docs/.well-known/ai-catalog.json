@@ -1,1 +1,96 @@
 
+ {
+   "specVersion": "1.0",
+   "host": {
+     "displayName": "dawright22 Azure SaaS Skills",
+     "identifier": "dawright22.github.io"
+   },
+   "entries": [
+     {
+       "identifier": "urn:ai:github.com:dawright22:azure-saas-skills:deployment-blueprints",
+       "displayName": "Deployment Blueprints",
+       "type": "application/ai-skill",
+       "url": "https://github.com/dawright22/azure-saas-skills/blob/main/skills/deployment-blueprints/SKILL.md",
+       "description": "Deployment blueprint guidance for Azure SaaS."
+     },
+     {
+       "identifier": "urn:ai:github.com:dawright22:azure-saas-skills:fulfillment-and-metering",
+       "displayName": "Fulfillment and Metering",
+       "type": "application/ai-skill",
+       "url": "https://github.com/dawright22/azure-saas-skills/blob/main/skills/fulfillment-and-metering/SKILL.md",
+       "description": "Marketplace fulfillment and metering workflows."
+     },
+     {
+       "identifier": "urn:ai:github.com:dawright22:azure-saas-skills:isv-landing-zone-foundation",
+       "displayName": "ISV Landing Zone Foundation",
+       "type": "application/ai-skill",
+       "url": "https://github.com/dawright22/azure-saas-skills/blob/main/skills/isv-landing-zone-foundation/SKILL.md",
+       "description": "Foundational landing zone design for SaaS providers."
+     },
+     {
+       "identifier": "urn:ai:github.com:dawright22:azure-saas-skills:marketplace-offer-types",
+       "displayName": "Marketplace Offer Types",
+       "type": "application/ai-skill",
+       "url": "https://github.com/dawright22/azure-saas-skills/blob/main/skills/marketplace-offer-types/SKILL.md",
+       "description": "Guidance on choosing Azure Marketplace offer models."
+     },
+     {
+       "identifier": "urn:ai:github.com:dawright22:azure-saas-skills:marketplace-onboarding",
+       "displayName": "Marketplace Onboarding",
+       "type": "application/ai-skill",
+       "url": "https://github.com/dawright22/azure-saas-skills/blob/main/skills/marketplace-onboarding/SKILL.md",
+       "description": "Onboarding process for Azure Marketplace publishing."
+     },
+     {
+       "identifier": "urn:ai:github.com:dawright22:azure-saas-skills:multi-tenant-saas",
+       "displayName": "Multi-tenant SaaS",
+       "type": "application/ai-skill",
+       "url": "https://github.com/dawright22/azure-saas-skills/blob/main/skills/multi-tenant_SaaS/SKILL.md",
+       "description": "Multi-tenant architecture and tenancy model guidance."
+     },
+     {
+       "identifier": "urn:ai:github.com:dawright22:azure-saas-skills:onboard-to-marketplace",
+       "displayName": "Onboard to Marketplace",
+       "type": "application/ai-skill",
+       "url": "https://github.com/dawright22/azure-saas-skills/blob/main/skills/onboard-to-marketplace/SKILL.md",
+       "description": "Execution guidance for Marketplace onboarding tasks."
+     },
+     {
+       "identifier": "urn:ai:github.com:dawright22:azure-saas-skills:saas-accelerator-bootstrap",
+       "displayName": "SaaS Accelerator Bootstrap",
+       "type": "application/ai-skill",
+       "url": "https://github.com/dawright22/azure-saas-skills/blob/main/skills/saas-accelerator-bootstrap/SKILL.md",
+       "description": "Bootstrap setup for Azure SaaS Accelerator workflows."
+     },
+     {
+       "identifier": "urn:ai:github.com:dawright22:azure-saas-skills:scale-and-sre",
+       "displayName": "Scale and SRE",
+       "type": "application/ai-skill",
+       "url": "https://github.com/dawright22/azure-saas-skills/blob/main/skills/scale-and-sre/SKILL.md",
+       "description": "Scaling, reliability, and SRE practices for SaaS."
+     },
+     {
+       "identifier": "urn:ai:github.com:dawright22:azure-saas-skills:security-and-compliance",
+       "displayName": "Security and Compliance",
+       "type": "application/ai-skill",
+       "url": "https://github.com/dawright22/azure-saas-skills/blob/main/skills/security-and-compliance/SKILL.md",
+       "description": "Security and compliance controls for SaaS platforms."
+     },
+     {
+       "identifier": "urn:ai:github.com:dawright22:azure-saas-skills:tenant-isolation-models",
+       "displayName": "Tenant Isolation Models",
+       "type": "application/ai-skill",
+       "url": "https://github.com/dawright22/azure-saas-skills/blob/main/skills/tenant-isolation-models/SKILL.md",
+       "description": "Tenant isolation patterns and trade-offs."
+     },
+     {
+       "identifier": "urn:ai:github.com:dawright22:azure-saas-skills:tenant-lifecycle-automation",
+       "displayName": "Tenant Lifecycle Automation",
+       "type": "application/ai-skill",
+       "url": "https://github.com/dawright22/azure-saas-skills/blob/main/skills/tenant-lifecycle-automation/SKILL.md",
+       "description": "Automating tenant provisioning and lifecycle operations."
+     }
+   ],
+   "collections": []
+ }
+
