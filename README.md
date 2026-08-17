@@ -23,12 +23,27 @@ Azure SaaS platform skills plugin for Git-Ape, based on:
 
 - Azure ISV Landing Zone guidance:  
   https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/isv-landing-zone
+- [Architect multitenant solutions on Azure](https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/overview)
 - Mastering the Marketplace SaaS hands-on labs:  
   https://microsoft.github.io/Mastering-the-Marketplace/saas/dev/#hands-on-labs
 - Commercial Marketplace SaaS Accelerator:  
   https://github.com/Azure/Commercial-Marketplace-SaaS-Accelerator
 
 The skills are designed so an SDC can stand up a multi-tenant SaaS platform, add product code, and onboard/publish through Azure Marketplace with scale and operational best practices.
+
+## Multitenancy Architecture Principles
+
+The skills apply the Azure Architecture Center's multitenancy guidance across the complete SaaS lifecycle:
+
+- Define the tenant model and map business entities to explicit tenancy boundaries.
+- Select shared, pooled, siloed, or hybrid isolation independently across compute, data, identity, messaging, and networking.
+- Establish, validate, authorize, propagate, and audit tenant context in synchronous and asynchronous workloads.
+- Use deployment stamps where appropriate, with tenant placement, capacity, scaling, migration, and blast-radius controls.
+- Prevent noisy-neighbor effects through quotas, throttling, resource governance, and tenant-aware observability.
+- Automate tenant onboarding, configuration, entitlement, movement, reconciliation, and offboarding.
+- Test cross-tenant isolation and horizontal privilege-escalation controls throughout APIs, data stores, caches, messages, logs, and administrative tools.
+
+These principles are implemented in `multi-tenant_SaaS`, `tenant-isolation-models`, `deployment-blueprints`, `tenant-lifecycle-automation`, `scale-and-sre`, and `security-and-compliance`.
 
 ## Install
 
