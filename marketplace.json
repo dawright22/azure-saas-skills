@@ -78,6 +78,11 @@
       "name": "deployment-blueprints",
       "description": "IaC deployment blueprints for SaaS topologies",
       "category": "deployment"
+    },
+    {
+      "name": "strict-drift-detection",
+      "description": "Deep, property-level drift detection (baseline-snapshot diff) as a companion to Git-Ape's built-in drift detector",
+      "category": "operations"
     }
   ]
 }

@@ -92,6 +92,7 @@ copilot plugin list   # Should show: git-ape@azure-saas-skills
 | `scale-and-sre` | Scale, resilience, observability, and operations patterns |
 | `security-and-compliance` | Identity, secrets, data protection, compliance controls |
 | `deployment-blueprints` | IaC deployment paths for reference SaaS topologies |
+| `strict-drift-detection` | Deep, property-level drift detection companion to Git-Ape's built-in drift detector |
 
 ## Example Usage
 
